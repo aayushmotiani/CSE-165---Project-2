@@ -1,0 +1,34 @@
+{
+    "name": "HandTracking",
+    "maps": [
+        {
+            "name": "HandTrackingMap",
+            "id": "ca546376-f0c5-4b77-9718-6eafa4071676",
+            "actions": [
+                {
+                    "name": "Up",
+                    "type": "Value",
+                    "id": "300a9860-7c01-41d9-b3df-9267ad83eae3",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ec723501-4e80-4126-80fd-265ac19a60b2",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Up",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
